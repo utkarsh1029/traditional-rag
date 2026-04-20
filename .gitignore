@@ -8,3 +8,13 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Secrets
+.env
+
+# Generated vector/database stores
+faiss_store/
+data/chroma_db/
+
+# Notebook runtime files
+.ipynb_checkpoints/
